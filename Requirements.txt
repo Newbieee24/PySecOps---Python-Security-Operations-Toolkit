@@ -1,0 +1,14 @@
+requests
+python-nmap
+tabulate
+colorama
+rich
+pyfiglet
+whois
+PyPDF2
+numpy
+scikit-learn
+watchdog
+builtwith
+dnspython
+beautifulsoup4
